@@ -1,11 +1,5 @@
 1. Variable:
-City:
-State:
-Population:
-Latitude:
-Longitude:
-Elevation:
-Area:
+City, State, Population, Latitude, Longitude, Elevation, Area
 
 2. Data Structure
 3. String Operations
