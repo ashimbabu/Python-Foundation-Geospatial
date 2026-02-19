@@ -5,6 +5,7 @@ City, State, Population, Latitude, Longitude, Elevation, Area
 Tuplles, Lists, Sets, Dictionaries and Exercise
 
 4. String Operations:
+String Operations, Escaping characters, Printing Strings, Exercise
 
 6. Loops Conditions:
 
