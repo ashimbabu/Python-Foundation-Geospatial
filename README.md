@@ -9,7 +9,9 @@ String Operations, Escaping characters, Printing Strings, Exercise
 
 6. Loops Conditions:
 
-8. Functions
-9. Calculating Dustance
-10. Web APIs
-11. 
+8. Functions:
+
+10. Calculating Dustance:
+
+12. Web APIs
+13. 
