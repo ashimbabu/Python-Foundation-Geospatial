@@ -1,10 +1,12 @@
 1. Variable:
 City, State, Population, Latitude, Longitude, Elevation, Area
 
-2. Data Structure
-3. String Operations
-4. Loops Conditions
-5. Functions
-6. Calculating Dustance
-7. Web APIs
-8. 
+2. Data Structure:
+Tuplles, Lists, Sets, Dictionaries and Exercise
+
+4. String Operations
+5. Loops Conditions
+6. Functions
+7. Calculating Dustance
+8. Web APIs
+9. 
