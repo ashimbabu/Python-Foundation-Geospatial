@@ -8,6 +8,7 @@ Tuplles, Lists, Sets, Dictionaries and Exercise
 String Operations, Escaping characters, Printing Strings, Exercise
 
 6. Loops Conditions:
+For loops, conditions, control statements, Exercise
 
 8. Functions:
 
