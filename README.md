@@ -11,6 +11,7 @@ String Operations, Escaping characters, Printing Strings, Exercise
 For loops, conditions, control statements, Exercise
 
 8. Functions:
+degrees, minutes, seconds to decimal and exercise
 
 10. Calculating Dustance:
 
